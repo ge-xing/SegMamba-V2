@@ -124,7 +124,7 @@ def define_model_segmambav2(self):
     from models_segmamba.segmambav2 import SegMamba
     model = SegMamba(in_channels=4, out_channels=4)
 
-    model_path = "/data/xingzhaohu/brats23/logs/nnunet/model/final_model_0.8388.pt"
+    model_path = "./final_model_0.8388.pt"
     model.load_state_dict(self.filte_state_dict(torch.load(model_path, map_location="cpu")))
     model.eval()
 

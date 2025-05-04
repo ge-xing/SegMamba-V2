@@ -47,7 +47,7 @@ class BraTSTrainer(Trainer):
         from models_segmamba.segmambav2 import SegMamba
         model = SegMamba(4, 4)
 
-        model_path = "/data/xingzhaohu/brats23/logs/nnunet/model/final_model_0.8388.pt"
+        model_path = "./final_model_0.8388.pt"
         new_sd = self.filte_state_dict(torch.load(model_path, map_location="cpu"))
         model.load_state_dict(new_sd)
         model.eval()
