@@ -2,6 +2,8 @@
 
 **SegMamba-V2: Long-range Sequential Modeling with Mamba for General 3D Medical Image Segmentation**
 
+This repository is still being updated.
+
 ![SegMamba Overview](./images/overview.png)
 
 ---
