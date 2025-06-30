@@ -27,8 +27,7 @@ This repository is still being updated.
 
 ## Pre-trained weights
 
-We provide the pre-trained weights, which can be accessed in [https://hkustgz-my.sharepoint.com/my?id=%2Fpersonal%2Fzxing565%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2Fsegmambav2&ga=1](https://hkustgz-my.sharepoint.com/my?id=%2Fpersonal%2Fzxing565%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2Fsegmambav2&ga=1)
-
+We provide the pre-trained weights, which can be accessed in [https://hkustgz-my.sharepoint.com/:f:/g/personal/zxing565_connect_hkust-gz_edu_cn/Evj1hoesaNNFkTqXo0qtQDIBkUR28fkr3Ny_0DiLOuSN9g?e=gsckbC](https://hkustgz-my.sharepoint.com/:f:/g/personal/zxing565_connect_hkust-gz_edu_cn/Evj1hoesaNNFkTqXo0qtQDIBkUR28fkr3Ny_0DiLOuSN9g?e=gsckbC)
 
 
 ## Code Structure
